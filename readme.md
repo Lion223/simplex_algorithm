@@ -1,2 +1,2 @@
 The simplex algorithm.
-Minimizing f of matrix.
+Minimizing f of a matrix.
